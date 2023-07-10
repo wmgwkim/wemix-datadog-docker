@@ -2794,6 +2794,6 @@ tags:
   - wemix.env:main-net
   - wemix.app:bp
   - wemix.type:chain
-  - wemix.member:11-blockdaemon-test1
+  - wemix.member:11-blockdaemon
   - wemix.server:Physical
   - wemix.region:Asia-Singapore
