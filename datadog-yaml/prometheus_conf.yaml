@@ -1,0 +1,9 @@
+init_config:
+
+instances:
+  - prometheus_url: http://172.17.0.2:6060/debug/metrics/prometheus
+    namespace: wemix3.0
+    metrics:
+      - "chain_head_block"
+      - "txpool_pending"
+      - "p2p_peers"

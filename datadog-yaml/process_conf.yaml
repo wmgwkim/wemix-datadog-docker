@@ -1,0 +1,5 @@
+init_config:
+instances:
+  - name: main-net
+    search_string: ['gwemix']
+    exact_match: false
